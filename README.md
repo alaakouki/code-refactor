@@ -19,4 +19,4 @@ Improving HTML semantics, accessibility and optimizing its CSS for Horiseon Soci
 Horiseon webpage URL: https://alaakouki.github.io/code-refactor/
 
 The following image shows the web application's appearance for Users:
-![alt Horiseon webpage](../code-refactor/assets/images/Horiseon-for-Social-Solution-Services.png)
+![alt Horiseon webpage](./assets/images/Horiseon-for-Social-Solution-Services.png)
